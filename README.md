@@ -65,19 +65,19 @@ I'm Somrat Masud from Bangladesh, and I do content on Design and Development. I 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./code.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./postman.png"/> </a>
 
-</p>
-<br/>
 <!-- github states and trofee -->
 <p align="center">
    <table>
    <h1 align="center">Github Stats</h1>
-    
+       <tr>
+       <td><img alt="Somrat Masud:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mahamodulhasanmoon&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="mahamodulhasanmoon :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamodulhasanmoon&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mahamodulhasanmoon&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
 </p>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahamodulhasanmoon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
