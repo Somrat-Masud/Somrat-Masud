@@ -48,11 +48,25 @@ I'm Somrat Masud from Bangladesh, and I do content on Design and Development. I 
      <img src="https://img.shields.io/badge/-express-20232A?style=flat&logo=express&logoColor=FFFFFF" height="30"/>
           <img src="https://img.shields.io/badge/-redux-593D88?style=flat&logo=redux&logoColor=FFFFFF" height="30"/>
           <img src="https://img.shields.io/badge/-typescript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF" height="30"/>
-
-
 </p>
 <br/>
 
+<br/>
+
+<!-- tools -->
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Tools</h2>
+
+<br>
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./code.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./postman.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./heroku.png"/> </a>
+</p>
+<br/>
 
 
 
