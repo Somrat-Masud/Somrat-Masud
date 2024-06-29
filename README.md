@@ -9,7 +9,7 @@ Hi, I'm Somrat Masud!
 <h3 align="center">
 	Software Developer
 </h3>
-<hr/>
+
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=380&height=45">
