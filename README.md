@@ -5,15 +5,6 @@ Hi, I'm Somrat Masud!
 	</a>
 
 </h1>
-###<p align="center">
-Software Developer	
-	
-</p>
-<h3 align="center">
-Software Developer	
-</h3>
-
-
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
