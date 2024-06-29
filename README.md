@@ -12,6 +12,7 @@ Hi, I'm Somrat Masud!
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,Welcome+to+My+Profile!;I+am+Software+Developer+(MERN);Computer+Science+Student;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 I'm Somrat Masud from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, I also enjoy wireframing, ui, ux, and design in general.
+<br/><br/><br/>
 
 ## About Me
 - 🌱 I’m currently learning Redux and Typescript
