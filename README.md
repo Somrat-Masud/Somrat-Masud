@@ -83,6 +83,17 @@ I'm Somrat Masud from Bangladesh, and I do content on Design and Development. I 
 ![](https://github-profile-trophy.vercel.app/?username=Somrat-Masud&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+## ❤ Views and Followers
+
+<a href="https://github.com/mahamodulhasanmoon/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mahamodulhasanmoon"  height="30">
+</a>
+<a href="https://github.com/mahamodulhasanmoon?tab=followers">
+<img src="https://img.shields.io/github/followers/mahamodulhasanmoon?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
+
+<!-- random coate -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
