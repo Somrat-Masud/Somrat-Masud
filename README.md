@@ -1,9 +1,9 @@
 
-<h1 align="center">Mahamodul Hasan Moon</h1> <br/> 
+<h1 align="center">Somrat Masud</h1> <br/> 
 
  <h2 align="center">Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Mahamodul+Hasan+Moon;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;I+am+Software+Developer+(MERN);)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Somrat+Masud;+Welcome+to+My+Profile!;Always+learning+new+things+;I+am+Software+Developer+(MERN);)](https://git.io/typing-svg)
 
 I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
