@@ -85,11 +85,11 @@ I'm Somrat Masud from Bangladesh, and I do content on Design and Development. I 
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/mahamodulhasanmoon/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mahamodulhasanmoon"  height="30">
+<a href="https://github.com/Somrat-Masud/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Somrat-Masud"  height="30">
 </a>
-<a href="https://github.com/mahamodulhasanmoon?tab=followers">
-<img src="https://img.shields.io/github/followers/mahamodulhasanmoon?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
+<a href="https://github.com/Somrat-Masud?tab=followers">
+<img src="https://img.shields.io/github/followers/Somrat-Masud?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
 <!-- random coate -->
 ### ✍️ Random Dev Quote
