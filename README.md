@@ -1,7 +1,7 @@
 
 <h1 align="center">Somrat Masud</h1> <br/> 
 
- <h3 align="center">Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+ <h1 align="center">Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Somrat+Masud;+Welcome+to+My+Profile!;Always+learning+new+things+;I+am+Software+Developer+(MERN);)](https://git.io/typing-svg)
 
