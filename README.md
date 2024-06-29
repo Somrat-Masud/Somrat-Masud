@@ -16,7 +16,19 @@ I'm Somrat Masud from Bangladesh, and I do content on Design and Development. I 
 ## About Me
 - 🌱 I’m currently learning Redux and Typescript
 
+<!-- social links -->
 
+<h3 align="left">:coffee: &emsp;Connect with me:</h3>
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/mahamodulhasanmoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/coddermoon"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/coddermoon/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/coder.mahamodulhasan/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+
+
+</p>
 <!--
 **Somrat-Masud/Somrat-Masud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
