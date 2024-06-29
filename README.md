@@ -15,10 +15,6 @@ I'm Somrat Masud from Bangladesh, and I do content on Design and Development. I 
 
 ## About Me
 - 🌱 I’m currently learning Redux and Typescript
-- 💬 Ask me about **any kind of programming related question**
-
-
-<br/><br/>
 
 
 <!--
