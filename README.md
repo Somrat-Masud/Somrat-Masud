@@ -15,6 +15,7 @@ Software Developer
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
+<hr/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=380&height=45">
