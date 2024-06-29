@@ -70,17 +70,17 @@ I'm Somrat Masud from Bangladesh, and I do content on Design and Development. I 
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="Somrat Masud:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mahamodulhasanmoon&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="mahamodulhasanmoon :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamodulhasanmoon&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td><img alt="Somrat-Masud:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Somrat-Masud&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="Somrat-Masud:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somrat-Masud&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mahamodulhasanmoon&theme=blue-green&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Somrat-Masud&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahamodulhasanmoon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Somrat-Masud&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
