@@ -4,17 +4,11 @@ Hi, I'm Somrat Masud!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<h1 align="center">
-Hi, I'm Somrat Masud!
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
-
-<br/>
 <h3 align="center">
-	Software Developer
+Software Developer	
 </h3>
+<br/>
+
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
